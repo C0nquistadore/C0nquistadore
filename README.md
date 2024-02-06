@@ -1,7 +1,7 @@
 Hey there, I'm Tommy 🙋🏻‍♂️
 
 I am a software engineer and architect from Cologne, Germany.<br/>
-☀️ At day I focus mostly on the backend using mainly technologies such as .NET and Microsoft SQL Server programming in C# and T-SQL.<br/>
+☀️ At day I focus mainly on the backend using technologies such as .NET and Microsoft SQL Server, programming in C# and T-SQL.<br/>
 🌙 At night I follow my passion playing around with smart home gadgets.<br/>
 
 <span>
